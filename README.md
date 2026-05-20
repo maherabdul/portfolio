@@ -12,4 +12,4 @@ This project is a responsive personal portfolio website created using HTML5 and 
 
 ## Live Website
 
-https://maherabdul.github.io/portfolio/
+https://github.com/maherabdul/portfolio#
